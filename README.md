@@ -12,7 +12,6 @@ GitHub contains various types of repositories which may or may not correspond to
 4.To predict the technology on which the repository was built in.
 
 ## Workflow Design and Methodology:
- 1. Data Extraction 2. Data Eng
-
+![image](https://user-images.githubusercontent.com/48361933/81434781-5a6e7b80-912c-11ea-8113-6b02124c7f39.png)
 ## Results: 
 
