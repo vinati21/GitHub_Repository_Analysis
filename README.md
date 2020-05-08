@@ -18,7 +18,11 @@ I have collected GitHub transactional data for the month of April in 2014.I have
 ## Workflow Design and Methodology:
 ![image](https://user-images.githubusercontent.com/48361933/81434781-5a6e7b80-912c-11ea-8113-6b02124c7f39.png)
 
-## Some interesting results: 
+## Some interesting Findings: 
+
+![image](https://user-images.githubusercontent.com/48361933/81457549-23b05980-915c-11ea-83f8-5b0016de9240.png)
+
+### Number of characters in Repository Descriptions: 
 
 ## Results: 
 
