@@ -20,6 +20,7 @@ I have collected GitHub transactional data for the month of April in 2014.I have
 
 ## Some interesting Findings: 
 
+
 ![image](https://user-images.githubusercontent.com/48361933/81457549-23b05980-915c-11ea-83f8-5b0016de9240.png)
 
 ### Number of characters in Repository Descriptions: 
@@ -130,6 +131,10 @@ I have collected GitHub transactional data for the month of April in 2014.I have
 	 Most correlated bigrams:
 	 	. plugin mirror
  	 	 . wordpress plugin
+		 
+### Model Training:
+
+I have built a random forest classifier that can predict the language of the repository based on the repository description with an accuracy of 54 percent.
 
 ## Scope for improvement: 
 
@@ -138,8 +143,9 @@ I have collected GitHub transactional data for the month of April in 2014.I have
 •	We can increase the prediction power of the model by adding more data.
 •	We can also use more features for training such as our Boolean and discrete features which we have not considered for model training along with the textual features.
 
-
-
-
-## Results: 
+## Conclusion: As per our objective of our study. 
+•	We have found out the groups in the repository.
+•	Identified Project Cluster which contain academic and student projects.
+•	Got the most correlated words to the repository languages.
+•	Built predictive model to classify the repositories into  technical languages based on repository features such as repository description.
 
